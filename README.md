@@ -1,5 +1,9 @@
 # Papers on Git-Truck
 
+This repository includes of papers written about Git Truck. See [issues](https://github.com/git-truck/papers/issues) for ideas for future papers.
+
+## List of papers
+
 1. [Exploring the Adaptability and Usefulness of Git-Truck for Assessing Software Capstone Project Development (SIGCSETS 2025)](https://dl.acm.org/doi/10.1145/3641554.3701798)
 
 1. [GitTruck@Duck - Interactive Time Range Selection in Hierarchy-Oriented Polymetric Visualization of Git Repository Evolution (ICSME 2024)](https://doi.org/10.1109/ICSME58944.2024.00090)
